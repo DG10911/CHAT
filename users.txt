@@ -1,0 +1,8 @@
+dungu:dungu
+dg9:dg9
+dg:dg
+pg:pg
+a:a
+b:b
+f:f
+d:d
